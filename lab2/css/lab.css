@@ -1,0 +1,13 @@
+body {
+  background: #566946;
+}
+p {
+  background: darkslategrey;
+  color: white;
+}
+#p1 {
+  font-size: 20px;
+}
+.purple {
+  color: violet;
+}
