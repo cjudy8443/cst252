@@ -1,16 +1,17 @@
 body {
-  background: grey;/*I like neutral colors a lot they go well with everything and white background is boring*/
+  background: #5d6470;/*I like neutral colors a lot they go well with everything and white background is boring*/
 }
 p {
-  background: darkslategrey;/*I like the neutral color!*/
   color: white;/*Easy to see!*/
 }
 #p1 {
   font-size: 20px;/*average size*/
-
 }
 .purple {/* violet is a pretty color, and i thought was a fun way to switch up font!*/
-  color: green;
+  color: White;
   font-style: italic;
-  font-family: fantasy;
+  font-family: serif;
+}
+.green{
+  color: #700425;
 }
