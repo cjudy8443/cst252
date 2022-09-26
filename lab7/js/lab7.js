@@ -9,9 +9,9 @@ function subtractOne(number){
 //test function
 undefined
 
-subtractOne(12);
+subtractOne(17);
 //function subtracted one
-11
+16
 
 let subtractOneVariable = (number) => {
     return number - 1;
@@ -25,10 +25,10 @@ subtractOneVariable
     return number - 1;
 }
 
-let array = [9, 8, 7, 6];
+let array = [18, 16, 12, 10];
 //test function, I announced my numbers
 undefined
 
 array.map(subtractOneVariable);
 //function worked, subtracted one from my numbers
-(4) [8, 7, 6, 5]
+(4) [17, 15, 11, 9]
