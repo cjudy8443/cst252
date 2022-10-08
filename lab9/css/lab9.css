@@ -1,0 +1,17 @@
+#title {
+    margin: 0% 20%;
+    padding: 5%;
+}
+
+#btn {
+    width: 150px;
+    height: 50px;
+    font-size: large;
+    margin-top: 1%;
+}
+
+#hover {
+    margin: 5% 20%;
+    width: 200px;
+    border: 3px solid orange;
+}
