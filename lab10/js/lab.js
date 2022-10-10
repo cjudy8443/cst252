@@ -21,5 +21,11 @@ let courseName = document.querySelector('#infopanel');
     console.log(courseName);
     courseName.textContent = "CST 252";
 
-document.addEventListener("DOMContentLoaded",)()=>{
+document.addEventListener("DOMContentLoaded", () => {
 }
+
+
+//let closePanel = () => {
+//}
+
+//exitButton.addEventListener('click', closePanel);
