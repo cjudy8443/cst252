@@ -7,7 +7,7 @@
 	margin-bottom: 20px;
 }
 
-.itembox1 {
+.itembox {
 	border-radius: 20px;
 	border: thin solid grey;
 	width: 300px;
@@ -20,12 +20,10 @@
 
 }
 
-.itembox1 img {
+.itembox img {
 	height: 180px;
 	float:left;
 }
-
-
 
 .itembox2 {
 	border-radius: 20px;
@@ -44,7 +42,6 @@
 	height: 180px;
 	float:left;
 }
-
 
 .courseitemname {
 	font-size: 50px;
@@ -84,6 +81,7 @@
 	box-shadow: 5px 5px #888882;
 	overflow: hidden;
 	padding: 15px;
+	display: none;
 
 }
 
@@ -98,5 +96,4 @@
 #exitbutton {
 	cursor: pointer;
 	float:right;
-	float:none;
 }
